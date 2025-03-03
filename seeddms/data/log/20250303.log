@@ -1,0 +1,3 @@
+Mar 03 04:14:20  [info] -- (10.240.4.3) op.Login.php 
+Mar 03 04:14:20  [info] Authentication service 'db'
+Mar 03 04:14:20  [info] Authentication service 'db': Authentication of user 'admin' successful.
